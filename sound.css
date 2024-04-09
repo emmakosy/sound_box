@@ -1,0 +1,68 @@
+body{
+    text-align: center;
+    background-color: rgb(59, 59, 224);
+}
+
+h1{
+    font-size: 5.5rem;
+    color: rgb(227, 217, 217);
+    font-family: 'Arvo', cursive;
+    text-shadow: 2px 0 rgb(231, 12, 48);
+}
+
+footer{
+    color: rgb(234, 230, 230);
+    font-family: sans-serif;
+}
+.container{
+margin: 15% auto;
+}
+
+.red{
+    color: rgb(219, 6, 6);
+}
+
+.title, footer{
+    text-align: center;
+}
+.title{
+    font-size: 5.5rem;
+}
+.box{
+    outline: none;
+    border: 15px solid rgb(99, 97, 97);
+    font-size: 5.1rem;
+    font-family: 'Arvo', cursive;
+    line-height: 2;
+    font-weight: 900;
+    color: rgb(247, 39, 74);
+    text-shadow: 3px 0 rgb(175, 170, 170);
+    border-radius: 15px;
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    margin: 10px;
+}
+
+.arcade-retro-game{
+    background-image: url("download.jpg");
+}
+.fast-rocket-whoosh{
+    background-image: url("download (1).jpg");
+}
+.classic-alarm{
+    background-image: url("download (2).jpg");
+}
+.retro-game-emergency-alarm{
+    background-image: url("download (3).jpg");
+}
+.retro-game-notification{
+    background-image: url("download (4).jpg");
+}
+.aggressive-beast-roar{
+    background-image: url("download (5).jpg");
+}
+.trumpet-fanfare{
+    background-image: url("download (6).jpg");
+}
